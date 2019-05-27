@@ -12,6 +12,10 @@ public class FuncExample {
         product(10, 20);
 
         /*
+        This is a new comment
+         */
+
+        /*
         Function with Return type and without Input parameters
          */
         System.out.println(getPhoneNumber());
